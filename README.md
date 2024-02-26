@@ -19,3 +19,14 @@
       - Criação da logo
       - Versão Light 
       - Versão Dark 
+
+# Segundo Commit
+  
+    - Criação do formulário de Sign In
+    - Componetização
+      - Components
+        - Separator
+        - Form Sign In
+        - Button Login Github
+        - Icone Github
+        - Ajuste de Css nos components Button e Input

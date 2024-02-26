@@ -19,6 +19,7 @@ const config: Config = {
       },
 
       white: '#fff',
+      transparent: 'transparent',
     },
 
     fontFamily: {
